@@ -8,8 +8,20 @@ data = {'names':['shana' , 'mina' , 'niki' , 'fei' , 'zara' , 'lili' , 'jack'],
 df=DataFrame(data)
 print(df)
 
-# creating simple bar chart
+# creating simple bar chart with matplot
 plt.bar(df['names'] , df['age'])
+plt.xlabel('Names')
+plt.ylabel('Age')
+plt.title('comparing ages')
+plt.show()
+
+# creating simple bar chart with seaborn
+plot = sns.barplot( data=df, x='names' , y='age')
+plot.set_title("comparing ages seaborn")
+plt.show()
+
+# lineplot with matplot
+plt.plot(df['names'] , df['age'])
 plt.xlabel('Names')
 plt.ylabel('Age')
 plt.title('comparing ages')
