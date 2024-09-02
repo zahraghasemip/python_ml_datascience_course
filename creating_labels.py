@@ -5,6 +5,9 @@ import matplotlib.pyplot as plt
 from pylab import rcParams 
 import seaborn as sb 
 
+rcParams['figure.figsize'] = 5, 4 
+sb.set_style('whitegrid')
+
 
 address='.\\data\\mtcars.csv'
 cars=pd.read_csv(address)
