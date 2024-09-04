@@ -32,7 +32,7 @@ You can install these libraries using pip:
 
 ```bash
 pip install beautifulsoup4 pandas matplotlib seaborn streamlit
-
+```
 
 ## Technologies
 
