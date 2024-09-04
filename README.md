@@ -2,16 +2,6 @@
 
 Welcome to the repository for my Machine Learning and Data Science course project! This repository showcases various techniques and practices I've learned, including data scraping, visualization, transformation, and more.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 This project encompasses various aspects of machine learning and data science, including web scraping, data visualization, statistical analysis, and interactive chart creation. The aim is to demonstrate practical skills in handling, visualizing, and interpreting data.
