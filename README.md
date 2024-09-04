@@ -1,6 +1,6 @@
 # Machine Learning & Data Science Project
 
-Welcome to the repository for my Machine Learning and Data Science course project! This repository showcases various techniques and practices I've learned, including data scraping, visualization, transformation, and more.
+Welcome to my repository, where I showcase the practical application of the skills and knowledge I acquired from a recent Machine Learning and Data Science course. This repository showcases various techniques and practices I've learned, including data scraping, visualization, transformation, and more.
 
 ## Introduction
 
